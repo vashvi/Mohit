@@ -19,7 +19,7 @@ form{
     background-color: aliceblue;
     padding: 25px 25px 30px;
     border-radius: 8px;
-    box-shadow: 0 0 10px magenta;
+    box-shadow: 0 0 10px rgb(0, 26, 255);
     color: #111;
     margin: 25px;
 }
@@ -111,6 +111,6 @@ form button:hover{
   }
   
   .social-links a:hover {
-    color: magenta;
+    color: rgb(0, 26, 255);
   }
   

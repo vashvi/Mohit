@@ -14,7 +14,7 @@ export default function Nav() {
       <div className="logo">
         <Link to="front" spy={true} smooth={true} offset={-100} duration={500}>
           <h2>
-            V<span>ashvi</span> S<span>rivastava</span>
+            M<span>ohit</span> G<span>upta</span>
           </h2>
         </Link>
       </div>

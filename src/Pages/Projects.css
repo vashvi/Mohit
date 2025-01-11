@@ -40,7 +40,7 @@
 .project-block::after {
   content: "";
   position: absolute;
-  background-color: rgba(255, 0, 255, 0.267);
+  background-color: rgba(0, 26, 255, 0.342);
   height: 0;
   width: 100%;
   left: 0;

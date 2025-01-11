@@ -20,7 +20,7 @@ export default function Front() {
 
       <div className="front_image">
         <img 
-          src="/WhatsApp_Image_2024-07-10_at_12.57.49_a27d269b-removebg.png" 
+          src="WhatsApp_Image_2025-01-11_at_16.26.00_5d93148e-removebg-preview.png" 
           alt="My-Portfolio-Image" 
         />
         <div>

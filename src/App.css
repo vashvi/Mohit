@@ -23,6 +23,6 @@ body {
   background: black;
 }
 ::-webkit-scrollbar-thumb{
-  background: magenta;
+  background: rgb(0, 26, 255);
   border-radius: 10px;
 }

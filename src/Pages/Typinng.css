@@ -7,7 +7,7 @@
 }
 
 .subtitle button {
-    background-color: magenta;
+    background-color: rgb(0, 26, 255);
     color: white;
     padding: 10px 20px;
     border: none;
@@ -17,8 +17,8 @@
 
 .subtitle button:hover {
     background-color: white;
-    color: magenta;
-    box-shadow: 0 0 10px rgba(241, 9, 241, 0.7);
+    color: rgb(0, 26, 255);
+    box-shadow: 0 0 10px rgba(9, 51, 241, 0.5);
     cursor: pointer;
 }
 .subtitle h3{
@@ -26,6 +26,6 @@
     margin: 10px;
 }
 span{
-    color: magenta;
+    color: rgb(0, 26, 255);
 
 }
